@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* nav css start here */
+nav{
+    background-color: #191919;
+    width: ;
+}
+.nav-parents{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 74%;
+    margin: 0 auto;
+.nav-title{
+    font-size: 2.2rem;
+    color: #E6533C;
+    font-family: inter;
+}
+.nav-menu{
+    border: 1px solid #262626;
+    border-radius: 15px;
+}
+.nav-menu ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 30px;
+    padding: 10px;
+}
+.nav-menu ul li:first-child{
+    margin-left: 0;
+}
+.nav-menu ul li a{
+    text-decoration: none;
+    color: #A9A9A9;
+}
+.home-button{
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    width: 52px;
+    height: 22px;
+    background-color: #E6533C;
+}
+.home-button{
+    color: white;
+}
+
+/* nav css Ends here */
